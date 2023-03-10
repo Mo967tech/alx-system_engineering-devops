@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ugoa+x alx-system_engineering-devops
+chmod -R +x .
