@@ -1,0 +1,5 @@
+head ==> display first 10 lines in files.
+tail ==> display last 10 lines in files.
+du ==> display spaces of files and directories.
+find ==>search for files in a directory hierarchy.
+wc ==> print \n, word, and byte count for each file.
